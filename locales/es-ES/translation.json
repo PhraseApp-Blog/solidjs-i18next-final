@@ -1,0 +1,22 @@
+{
+  "app_name": "Aplicación meteorológica SolidJS",
+  "english_label": "Inglés",
+  "spanish_label": "Español",
+  "russian_label": "Ruso",
+  "arabic_label": "Arábica",
+  "get_weather_button_label": "Obtener el clima",
+  "city_input_placeholder": "Introduce una ciudad",
+  "temperature_celcius": "La temperatura es: {{val, number}}",
+  "temperature_fahrenheit": "O: {{val, number}}",
+  "feels_like": "Se siente como: {{val, number}}",
+  "humidity": "Humedad:",
+  "humidity_number": "{{val, number}}",
+  "date_label": "Datos registrados en:",
+  "data_recorded_on_date": "{{val, datetime}}",
+  "error_message": "No se pudo encontrar el clima para {{city}}",
+  "intlDateTime": "{{val}} {{datetime}}",
+  "weather_stations_label": "Número de estaciones meteorológicas:",
+  "station_one": "{{count, number}} estación",
+  "station_many": "{{count, number}} estaciones",
+  "station_other": "{{count, number}} estaciones"
+}

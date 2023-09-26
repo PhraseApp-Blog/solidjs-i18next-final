@@ -1,0 +1,22 @@
+{
+  "app_name": "Погодное приложение SolidJS",
+  "english_label": "Английский",
+  "spanish_label": "испанский",
+  "russian_label": "Русский",
+  "arabic_label": "арабский",
+  "get_weather_button_label": "Получить погоду",
+  "city_input_placeholder": "Введите город",
+  "temperature_celcius": "Температура: {{val, number}}",
+  "temperature_fahrenheit": "Или: {{val, number}}",
+  "feels_like": "Как будто: {{val, number}}",
+  "humidity": "Влажность:",
+  "humidity_number": "{{val, number}}",
+  "date_label": "Данные записаны на:",
+  "data_recorded_on_date": "{{val, datetime}}",
+  "error_message": "Не удалось найти погоду для {{city}}",
+  "weather_stations_label": "Количество метеостанций:",
+  "station_one": "{{count, number}} метеостанция",
+  "station_few": "{{count, number}} метеостанции",
+  "station_many": "{{count, number}} Много станций",
+  "station_other": "{{count, number}} станций"
+}

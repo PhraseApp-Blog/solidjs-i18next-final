@@ -1,0 +1,20 @@
+{
+  "app_name": "SolidJS Weather App",
+  "english_label": "English",
+  "spanish_label": "Español",
+  "russian_label": "Russian",
+  "arabic_label": "Arabic",
+  "get_weather_button_label": "Get Weather",
+  "city_input_placeholder": "Enter a city",
+  "temperature_celcius": "Temperature is: {{val, number}}",
+  "temperature_fahrenheit": "Or: {{val, number}}",
+  "feels_like": "Feels like: {{val, number}}",
+  "humidity": "Humidity:",
+  "humidity_number": "{{val, number}}",
+  "date_label": "Data recorded on:",
+  "data_recorded_on_date": "{{val, datetime}}",
+  "error_message": "Could not find weather for {{city}}",
+  "weather_stations_label": "Number of Weather Stations:",
+  "station": "{{count, number}} weather station",
+  "station_other": "{{count, number}} weather stations"
+}

@@ -1,0 +1,23 @@
+{
+  "app_name": "تطبيق الطقس سولَد چاي إس",
+  "english_label": "الإنجليزية",
+  "spanish_label": "الأسبانية",
+  "russian_label": "الروسية",
+  "arabic_label": "العربية",
+  "get_weather_button_label": "الطقس",
+  "city_input_placeholder": "أدخل مدينة",
+  "temperature_celcius": "درجة الحرارة: {{val, number}} درجة مئوية",
+  "temperature_fahrenheit": "أو: {{val, number}} درجة فهرنهايت",
+  "feels_like": "تبدو مثل: {{val, number}} درجة مئوية",
+  "humidity": "الرطوبة:",
+  "humidity_number": "{{val, number}}",
+  "date_label": "البيانات مسجلة يوم:",
+  "data_recorded_on_date": "{{val, datetime}}",
+  "error_message": "لا يمكن العثور على الطقس ل{{city}}",
+  "weather_stations_label": "عدد محطات الطقس:",
+  "station_one": "محطة {{count, number}}",
+  "station_two": "محطتان {{count, number}}",
+  "station_few": "{{count, number}} محطات",
+  "station_many": "{{count, number}} محطة",
+  "station_other": "{{count, number}} محطة"
+}
